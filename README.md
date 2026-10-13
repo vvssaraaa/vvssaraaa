@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Sara, a final-year B.Sc. computer science student based in Oslo, Norway.<br><br>I’m interested in software development and technology-driven problem solving.<br>I enjoy building practical projects, exploring new technologies, and taking part in hackathons. <br>I’m currently working with Java, C#, Python, .NET and React.<br><br>Outside of coding, I’m involved in student organizations and work as a student assistant.<br><br>Currently learning, C#, React, Kotlin, and more about AI & Machine learning.<br>
+Hi! I’m Sara, a final-year B.Sc. computer science student based in Oslo, Norway.<br><br>I’m interested in software development, technology-driven problem solving as well as project management.<br>I enjoy building practical projects, exploring new technologies, and taking part in hackathons. <br>I’m currently working with Java, C#, Python, .NET and React.<br><br>Outside of coding, I’m involved in student organizations and work as a student assistant.<br><br>Currently learning, C#, React, Kotlin, and more about AI & Machine learning.<br>
 
 
 ## 🌐 Socials:
